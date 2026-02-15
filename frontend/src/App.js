@@ -5,12 +5,14 @@ import LandingPage from "./pages/LandingPage";
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter basename="/visa">
         <Routes>
           <Route path="/" element={<LandingPage />} />
+          <Route path="*" element={<LandingPage />} />
         </Routes>
       </BrowserRouter>
     </div>
+
   );
 }
 
