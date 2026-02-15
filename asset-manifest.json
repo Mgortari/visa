@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/visa/static/css/main.2483f3b0.css",
+    "main.js": "/visa/static/js/main.46f0cff9.js",
+    "index.html": "/visa/index.html",
+    "main.2483f3b0.css.map": "/visa/static/css/main.2483f3b0.css.map",
+    "main.46f0cff9.js.map": "/visa/static/js/main.46f0cff9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2483f3b0.css",
+    "static/js/main.46f0cff9.js"
+  ]
+}
