@@ -5,12 +5,11 @@ import LandingPage from "./pages/LandingPage";
 function App() {
   return (
     <div className="App">
-      <BrowserRouter basename="/visa">
+      <HashRouter>
         <Routes>
           <Route path="/" element={<LandingPage />} />
-          <Route path="*" element={<LandingPage />} />
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </div>
 
   );
