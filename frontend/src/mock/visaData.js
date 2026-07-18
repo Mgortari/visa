@@ -86,6 +86,6 @@ export const faqData = [
 export const contactInfo = {
   email: "marcogortari.7@gmail.com",
   phone: "+54 299 610 5662",
-  instagram: "@VisassUsa",
+  instagram: "@margortari",
   hours: "Lunes a Viernes: 9:00 AM - 6:00 PM"
 };
