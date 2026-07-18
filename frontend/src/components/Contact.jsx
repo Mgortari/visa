@@ -50,7 +50,7 @@ const Contact = () => {
             
             {/* Instagram */}
             <a 
-              href="https://instagram.com/VisassUsa" 
+              href="https://instagram.com/margortari" 
               target="_blank" 
               rel="noopener noreferrer"
               className="block"
